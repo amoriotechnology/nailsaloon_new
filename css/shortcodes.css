@@ -219,7 +219,7 @@
 ------------------------*/
 .ttm-equal-height-image{ display: none; }
 .col-bg-img-one.ttm-col-bgimage-yes .ttm-col-wrapper-bg-layer{
-    background-image: url(../images/bg-image/col-bgimage-1.jpg);
+    background-image: url(../images/bg-image/7.png);
     background-position: left center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -267,7 +267,7 @@
     background-size: cover;
 }
 .col-bg-img-nine.ttm-col-bgimage-yes .ttm-col-wrapper-bg-layer{
-    background-image: url(../images/bg-image/col-bgimage-9.jpg);
+    background-image: url(../images/bg-image/8.png);
     background-position: right bottom !important;
     background-repeat: no-repeat;
     background-size: cover;
